@@ -1,14 +1,13 @@
-# KICKSTARTER-PROJECT-ANALYSIS-
-
-# ANALYSIS REPORTS ON KICKSTARTER PROJECTS OVER THE YEARS
+# KICKSTARTER-PROJECT-ANALYSIS
+# MY SECOND DATA ANALYSIS [PROJECT AT EDGE LINE CAREERS](https://www.linkedin.com/company/edgeline-careers)
+##  ANALYSIS REPORTS ON KICKSTARTER PROJECTS OVER THE YEARS
 
 ## INTRODUCTION
 
 Kickstarter, a crowdfunding platform supporting creators, has facilitated funding for diverse projects from 2009 to 2018. This analysis aims to evaluate project performance during this period, encompassing project numbers, their statuses (failed, successful, canceled, or suspended), the most successful categories, pledged amounts across categories, the favored category by sponsors, and the evolving trends in project dynamics over the years.
 
 ## ABOUT THE DATA/DATA COLLECTION 
-The dataset comprises time-series business data, sourced as secondary data from Maven analytics, encompassing 374,853 rows and 12 columns. 
-The analysis aims to address key inquiries:
+The dataset comprises time-series business data,encompassing 374,853 rows and 12 columns, sourced as secondary data from Maven analytics under the instruction of [Ganiyat Olajumoke Ajala](https://www.linkedin.com/in/ganiyat-olajumoke-abe/). The analysis aims to address key inquiries:
 
 1.	Success by Project Category: Identifying the category exhibiting the highest success rate among projects.
 
@@ -51,6 +50,7 @@ These insights showcase the dynamic landscape of Kickstarter projects, emphasizi
 
 ## VISUALIZATION
 
+![image](https://github.com/BasitOlawale/KICKSTARTER-PROJECT-ANALYSIS-/assets/150345326/afcda17c-9a9a-4448-8682-b11ec49c3747)
 
 
 ## RECOMMENDATIONS
